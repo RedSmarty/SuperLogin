@@ -9,6 +9,8 @@ ___
 
 Most login plugins are very annoying, constantly spamming players to login and register. SuperLogin is different, instead of spamming the player's chat, it presents them with a very clean and initiutive GUI.
 Players can just login/register by entering a 4-digit pin number. This is far less annoying then typing the whole password in chat. And it protects players from doing any other task unless they log in.
+___
+
 ![Image of GUI](/assets/images/gui.png)
 
 ___
