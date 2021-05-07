@@ -1,0 +1,3 @@
+allowed_commands:
+  - login
+  - register

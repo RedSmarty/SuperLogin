@@ -1,0 +1,5 @@
+name: SuperLogin
+version: ${project.version}
+main: net.redsmarty.superlogin.SuperLogin
+api-version: 1.16
+authors: [ RedSmarty ]
