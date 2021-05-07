@@ -4,7 +4,7 @@
 ___
 
 ❗❗THIS PLUGIN IS IN ACTIVE DEVELOPMENT. SOME FEATURES MIGHT BE UNAVAILABLE.❗❗
-
+Most of the features aren't configurable for now but will be in the near future.
 ___
 
 Most login plugins are very annoying, constantly spamming players to login and register. SuperLogin is different, instead of spamming the player's chat, it presents them with a very clean and initiutive GUI.
